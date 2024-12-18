@@ -10,7 +10,7 @@
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)dev-palkhe/filestore.git
+    git clone https://github.com/dev-palkhe/filestore.git
     cd filestore
     ```
 
